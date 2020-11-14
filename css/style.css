@@ -87,3 +87,20 @@ footer p {
   width: 350px;
   margin-bottom: 30px;
 }
+
+/* MUSIC */
+
+.music {
+  display: inline-block;
+  text-align: center;
+  height: inherit;
+  margin-left: 150px;
+}
+
+.music .page-title {
+  text-align: left;
+}
+
+.music .iframe {
+  text-align: left;
+}
