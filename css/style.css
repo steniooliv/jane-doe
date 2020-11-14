@@ -94,13 +94,15 @@ footer p {
   display: inline-block;
   text-align: center;
   height: inherit;
-  margin-left: 150px;
+  
 }
 
 .music .page-title {
   text-align: left;
+  margin-left: 150px;
 }
 
 .music .iframe {
   text-align: left;
+  margin-left: 150px;
 }
