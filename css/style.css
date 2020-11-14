@@ -54,6 +54,7 @@ footer {
   width: 100%;
   background-color: #ccc;
   padding: 2px;
+  box-sizing: border-box;
 }
 
 footer p {
